@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398637178519",
+    "firebase_url": "https://filo-chat-prod.firebaseio.com",
+    "project_id": "filo-chat-prod",
+    "storage_bucket": "filo-chat-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398637178519:android:767cb93cadf88da1",
+        "android_client_info": {
+          "package_name": "media.filo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398637178519-515psngmefa363l797lp0enhk7lhjtjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNL39hn67JF9z8GOhOsTcf1L-Zv2U2Ld0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398637178519-515psngmefa363l797lp0enhk7lhjtjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398637178519-qj79v8co81r156jahnnscb4vhesqudqi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "filo.media.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
