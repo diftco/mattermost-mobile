@@ -1,5 +1,5 @@
 {
-    "DefaultServerUrl": "",
+    "DefaultServerUrl": "https://chat.filo.media",
     "TestServerUrl": "http://localhost:8065",
     "DefaultTheme": "default",
     "ShowErrorsList": false,
@@ -32,7 +32,7 @@
 
     "ExperimentalNormalizeMarkdownLinks": false,
 
-    "AutoSelectServerUrl": false,
+    "AutoSelectServerUrl": true,
 
     "EnableMobileClientUpgrade": false,
     "EnableMobileClientUpgradeUserSetting": false,
