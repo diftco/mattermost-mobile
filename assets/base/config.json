@@ -1,15 +1,15 @@
 {
-    "DefaultServerUrl": "https://chat.filo.media",
+    "DefaultServerUrl": "https://filo.chat",
     "TestServerUrl": "http://localhost:8065",
     "DefaultTheme": "default",
     "ShowErrorsList": false,
     "MinServerVersion": "4.0.0",
-    "EELearnURL": "about.mattermost.com",
-    "TeamEditionLearnURL": "mattermost.org",
-    "AboutTeamURL": "http://www.mattermost.org/",
-    "AboutEnterpriseURL": "http://about.mattermost.com/",
-    "PlatformNoticeURL": "https://about.mattermost.com/platform-notice-txt/",
-    "MobileNoticeURL": "https://about.mattermost.com/mobile-notice-txt/",
+    "EELearnURL": "dift.co/about",
+    "TeamEditionLearnURL": "dift.co",
+    "AboutTeamURL": "http://www.dift.co/",
+    "AboutEnterpriseURL": "http://dift.co/about/",
+    "PlatformNoticeURL": "https://dift.co/about/platform-notice-txt/",
+    "MobileNoticeURL": "https://dift.co/about/mobile-notice-txt/",
     "SegmentApiKey": "",
     "ExperimentalUsernamePressIsMention": false,
 
@@ -37,8 +37,8 @@
     "EnableMobileClientUpgrade": false,
     "EnableMobileClientUpgradeUserSetting": false,
     "EnableForceMobileClientUpgrade": false,
-    "MobileClientUpgradeAndroidApkLink": "https://about.mattermost.com/mattermost-android-app/",
-    "MobileClientUpgradeIosIpaLink": "https://about.mattermost.com/mattermost-ios-app/",
+    "MobileClientUpgradeAndroidApkLink": "https://dift.co/about/mattermost-android-app/",
+    "MobileClientUpgradeIosIpaLink": "https://dift.co/about/mattermost-ios-app/",
 
     "ShowSentryDebugOptions": false,
 
