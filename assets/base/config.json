@@ -1,5 +1,5 @@
 {
-    "DefaultServerUrl": "https://filo.chat",
+    "DefaultServerUrl": "https://figo.chat",
     "TestServerUrl": "http://localhost:8065",
     "DefaultTheme": "default",
     "ShowErrorsList": false,
